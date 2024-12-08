@@ -21,6 +21,8 @@ Hashing: bcrypt.js
 API Documentation: Postman
 Middleware: Cookie-parser, Express
 
+## Postman API Link
+https://fsdb67.postman.co/workspace/FSDB6-Workspace~3d74cf57-94ec-466c-825c-07be5f7c8a4e/collection/39965124-2567fcbf-35a4-4135-80fd-9d56807ec09f?action=share&creator=39965124
 ## Installation
 Clone the repository:
 git clone https://github.com/yourusername/auth-api.git
